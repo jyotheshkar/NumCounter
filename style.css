@@ -1,0 +1,50 @@
+.head{
+    text-align: center;
+    padding: 10rem;
+    
+  }
+  .aqua{
+    background-color: rgb(104, 109, 109);
+  }
+  .alpha{
+    text-align: center;
+   
+  
+  }
+  .decrease
+  {
+    border-radius: 10px;
+    margin-right:3rem ;
+    background-color: black;
+    color: aqua;
+    border-color: black;
+  }
+  .increase
+  {
+    border-radius: 10px;
+    margin-left: 3rem;
+    background-color: black;
+    color: aqua;
+    border-color: black;
+  }
+  .reset{
+    border-radius: 10px;
+    background-color: black;
+    color: aqua;
+    border-color: black;
+  }
+  .decrease:hover{
+    background-color: aqua;
+    color: black;
+  }
+  .reset:hover{
+    background-color: aqua;
+    color: black;
+    
+  }
+  .increase:hover{
+    background-color: aqua;
+    color: black;
+    
+  }
+   
